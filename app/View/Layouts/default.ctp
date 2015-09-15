@@ -64,7 +64,7 @@
 		
 		<div class="clearfix"></div>
 		<footer>
-			<p>Copyright @copy; 2014, JobFinds, All Rights Reserved</p>
+			<p>Copyright 2015, GetHired, All Rights Reserved</p>
 		</footer>
 </div> <!-- End Grid -->
 </body>
